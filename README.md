@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksei Sanatov</h1>
-<h3 align="center">A passionate frontend developer from Latvia and I love coding.</h3>
+<h3 align="center">A passionate Front-end Developer from Latvia and I love coding.</h3>
 
 - 🔭 I’m currently working on [Mesto](https://github.com/alekseisanatov/mesto)
 
