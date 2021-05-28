@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <h4>E-mail - aleksei.sanatov@gmail.com</h4>
-<h4>LinkedIn - <a href="https://www.linkedin.com/in/alexei-sanatov-270b861a1/">Aleksei Sanatov</a></h4>
+<h4>LinkedIn - <a href="https://www.linkedin.com/in/alexei-sanatov-270b861a1/" target="_blank">Aleksei Sanatov</a></h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
