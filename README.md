@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksei Sanatov</h1>
 <h3 align="center">A passionate Front-end Developer from Latvia and I love coding.</h3>
 
-- 🔭 I’m currently working on [Mesto](https://github.com/alekseisanatov/mesto)
-
-- 🌱 I’m currently learning **React and MongoDB**
+- 🔭 My last project [Movies-explorer](https://github.com/alekseisanatov/movies-explorer-frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/alekseisanatov](https://github.com/alekseisanatov)
 
